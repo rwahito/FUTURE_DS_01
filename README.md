@@ -45,7 +45,18 @@ The data preparation steps included:
 - **Total Quantity Sold:** 38K  
 - **Best Performing Category:** Technology  
 - **Best Performing Region:** West  
-- **Best Performing Segment:** Consumer  
+- **Best Performing Segment:** Consumer
+  
+### Top 10 sub-categories by sales:
+<img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/2e8b761e-681b-4299-962a-b0e3e21f865a" />
+
+### Top 10 States by sales:
+
+  <img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/c263b846-33c2-4fcb-8fc7-20b7a4007455" />
+
+### Month with the highest Sales
+
+  <img width="1920" height="1080" alt="Month" src="https://github.com/user-attachments/assets/fe353390-d857-4c64-aae6-e122d0df7bba" />
 
 ## Recommendations
 - **Expand Technology category offerings** since it consistently outperformed others, potentially driving higher revenue.  
