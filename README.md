@@ -4,8 +4,9 @@
 This project explores sales performance across different dimensions of the Superstore dataset (2011–2014).  
 The dashboard highlights sales trends, profitability, and product performance, helping to identify key areas of growth.
 
-## Preview
-![Dashboard Screenshot](insert_screenshot_here.png)
+## Pre-view of the dashboard
+<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/23072712-262b-433b-a305-8a06cd6b3ce7" />
+
 
 ## Data Source
 **Dataset:** Superstore  
@@ -22,7 +23,7 @@ The data preparation steps included:
   - *Order Date* → Short Date format  
 - Creating new calculated columns:  
   - *Month* (to group sales by month)  
-  - *Year* (to group sales by year)  
+  - *Year* (to be used as a slicer)  
 
 ## Exploratory Data Analysis (EDA)
 
